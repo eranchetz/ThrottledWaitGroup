@@ -1,5 +1,4 @@
-//package throttledwaitgroup
-package main
+package throttledwaitgroup
 
 import (
 	"sync"
