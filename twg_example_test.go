@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	TWG "github.com/eranchetz/ThrottledWaitGroup-go"
+	TWG "github.com/eranchetz/ThrottledWaitGroup"
 )
 
 const exampleURL = "https://exmaple.com"
